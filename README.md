@@ -22,6 +22,7 @@
   <img align="center" alt="Alyn-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Alyn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Alyn-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Alyn-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
 </div>
   
   ##
