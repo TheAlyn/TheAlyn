@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com FullStack (Junior)
 - 🌱 Sempre buscando aprender sobre as tecnologias atuais. NodeJs, ReactJs, React-Native, PHP, Laravel e dentre outras
-- 💬 Atualmente tenho 27 anos de idade, estudo programação desde 2018 e sempre em busca de adquirir mais conhecimento na área.
+- 💬 Atualmente tenho 28 anos de idade, estudo programação desde 2018 e sempre em busca de adquirir mais conhecimento na área.
 
 <div>
   <a href="https://github.com/TheAlyn">
