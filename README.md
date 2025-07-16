@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alysson Henrique, é um prazer te ver aqui 👋
 
-- 🔭 Hoje trabalho com FullStack (Junior)
+- 🔭 Hoje trabalho com FullStack
 - 🌱 Sempre buscando aprender sobre as tecnologias atuais. NodeJs, ReactJs, React-Native, PHP, Laravel e dentre outras
 - 💬 Atualmente tenho 29 anos de idade, estudo programação desde 2018 e sempre em busca de adquirir mais conhecimento na área.
 
