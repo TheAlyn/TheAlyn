@@ -43,6 +43,11 @@ Sou desenvolvedor **FullStack** apaixonado por tecnologia. Estou sempre buscando
 
 ---
 
+## 🚀 Projetos em desenvolvimento
+<img src="https://media.giphy.com/media/l3vR9O2qR6vvi/giphy.gif" width="25"> Sempre evoluindo, testando e melhorando meus projetos!
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
