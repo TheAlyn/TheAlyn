@@ -10,7 +10,7 @@ Sou desenvolvedor **FullStack** apaixonado por tecnologia. Estou sempre buscando
 - 🌱 Estudo programação desde 2018  
 - 👨‍💻 Minhas principais stacks: **PHP (Laravel)**, **JavaScript**, **React**, **React Native**, **Node.js**  
 - 📈 Sempre me atualizando com as tecnologias mais utilizadas no mercado  
-- 👨‍🎓 Tenho 31 anos e sigo aprendendo todos os dias  
+- 👨‍🎓 Tenho 32 anos e sigo aprendendo todos os dias  
 
 ---
 
